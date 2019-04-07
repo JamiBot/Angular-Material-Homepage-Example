@@ -2,7 +2,7 @@
 
 This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Angular Material Homepage Example](https://youtu.be/TtbWFcyoeQ0).
 
-[![Angular Material Homepage Example](https://img.youtube.com/vi/TtbWFcyoeQ0/mqdefault.jpg)](https://youtu.be/TtbWFcyoeQ0)
+[![Angular Material Homepage Example](https://img.youtube.com/vi/TtbWFcyoeQ0/maxresdefault.jpg)](https://youtu.be/TtbWFcyoeQ0)
 
 A simple example of a home page built in Angular Material.
 
